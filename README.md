@@ -77,7 +77,7 @@ manim-render example_scenes.py OpeningManimExample
     ```
 
 ## Anaconda Install
-
+#can we include an npm module
 1. Install LaTeX as above.
 2. Create a conda environment using `conda create -n manim python=3.8`.
 3. Activate the environment using `conda activate manim`.
