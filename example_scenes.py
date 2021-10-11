@@ -1,5 +1,6 @@
 from manimlib import *
 import numpy as np
+import pandas as pd
 
 # To watch one of these scenes, run the following:
 # manimgl example_scenes.py OpeningManimExample
