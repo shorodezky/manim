@@ -1,6 +1,8 @@
 from manimlib import *
 import numpy as np
 
+# Can we include more features using data visualization libraries?
+
 # To watch one of these scenes, run the following:
 # manimgl example_scenes.py OpeningManimExample
 # Use -s to skip to the end and just save the final frame
